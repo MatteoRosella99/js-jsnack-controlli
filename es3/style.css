@@ -1,0 +1,17 @@
+h1{
+  color: black;
+  width: 80%;
+  margin: auto;
+  text-align: center;
+  padding-top: 46px;
+}
+.quadro{
+  background-color: yellow;
+  width: 50%;
+  height: 140px;
+  border: black solid 1px;
+  margin: auto;
+}
+body{
+  padding: 80px;
+}
